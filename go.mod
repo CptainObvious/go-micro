@@ -5,17 +5,13 @@ go 1.13
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/beevik/ntp v0.2.0
-	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/bwmarrin/discordgo v0.20.1
-	github.com/cockroachdb/datadriven v0.0.0-20190809214429-80d97fb3cbaa // indirect
-	github.com/coreos/etcd v3.3.21+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
-	github.com/coreos/go-systemd/v22 v22.0.0 // indirect
+	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
-	github.com/fatih/color v1.7.0 // indirect
 	github.com/forestgiant/sliceutil v0.0.0-20160425183142-94783f95db6c
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/fsouza/go-dockerclient v1.6.0
@@ -41,8 +37,6 @@ require (
 	github.com/leodido/go-urn v1.2.0 // indirect
 	github.com/lib/pq v1.2.0
 	github.com/lucas-clemente/quic-go v0.13.1
-	github.com/mattn/go-colorable v0.0.9 // indirect
-	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/mholt/certmagic v0.8.3
 	github.com/micro/cli v0.2.0
 	github.com/micro/mdns v0.3.0
@@ -56,13 +50,11 @@ require (
 	github.com/prometheus/client_golang v1.6.0 // indirect
 	github.com/prometheus/common v0.10.0 // indirect
 	github.com/sirupsen/logrus v1.6.0 // indirect
-	github.com/spf13/cobra v1.0.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966 // indirect
 	go.etcd.io/bbolt v1.3.4 // indirect
-	go.etcd.io/etcd v3.3.21+incompatible
+	go.etcd.io/etcd v0.0.0-20200518184023-0de2b1f8607a
 	go.uber.org/zap v1.15.0 // indirect
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
 	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
@@ -70,7 +62,6 @@ require (
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/genproto v0.0.0-20200519141106-08726f379972 // indirect
 	google.golang.org/grpc v1.29.1
-	gopkg.in/cheggaaa/pb.v1 v1.0.25 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.30.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
