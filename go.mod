@@ -15,7 +15,7 @@ require (
 	github.com/go-acme/lego/v3 v3.1.0
 	github.com/go-log/log v0.1.0
 	github.com/go-playground/locales v0.13.0 // indirect
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.2
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/websocket v1.4.1
